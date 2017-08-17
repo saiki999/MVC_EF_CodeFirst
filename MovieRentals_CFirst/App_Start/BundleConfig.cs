@@ -24,7 +24,7 @@ namespace MovieRentals_CFirst
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap_new.min.css",
                       "~/Content/site.css"));
         }
     }
